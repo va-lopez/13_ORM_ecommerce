@@ -17,5 +17,7 @@ Make sure to install all your dependencies including Node, Inquirer, Dotenv, mys
 5. Lastly, run "node server.js"
 
 ## Usage
+link to video: https://drive.google.com/file/d/1xqPrykKBmdlf2oxnJR-kPmyBqhs5Ogxn/view
+
 link to github project page: https://github.com/va-lopez/13_ORM_ecommerce
 
